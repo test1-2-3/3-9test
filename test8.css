@@ -73,13 +73,11 @@ main{
 .box{
   width: 90%;
   float: none;
-  margin-bottom: 20px;
   margin: 20px;
 }
 
-.box:last-child{
-  margin-bottom: 0;
-}}
+
+}
 
 
 
